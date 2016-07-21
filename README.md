@@ -7,6 +7,7 @@ Robot Software Institute 4th Class - Convergence Project Group 5
 # Resources
 OpenCM(ARM Cortex3-M3 Based) 4Ea /
 OpenCM485 EXPANSION Board 1Ea /
+MPU6050(Accelerometer + Gyro Sensor) 1Ea /
 DYNAMIXEL AX-12A 2Ea /
 DYNAMIXEL AX-12W 4Ea /
 SMPS 12V 5A PS-10 1Ea /
