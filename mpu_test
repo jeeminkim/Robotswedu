@@ -1,6 +1,5 @@
 /*************************************************** 
   This is an example for the MPU6050(Accelerometer + Gyro Sensor) with ROBOTIS OpenCM.
-
   Based on work by Arduino User JognChi from Arduino.cc  https://playground.arduino.cc/Main/MPU-6050
   Revised by Soon-Uk Kwon, Jee-Min Kim, Joo-Whan Song, Joon Heo (Robot Software Institute 4th Class - Convergence Project Group 5)
  ****************************************************/
